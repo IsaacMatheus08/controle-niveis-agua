@@ -36,11 +36,11 @@ O sistema simula o monitoramento de um reservatório com **5 níveis de água**,
 1. Certifique-se de ter o **Python 3** instalado
 2. Clone o repositório:
    ```
-   git clone https://github.com/IsaacMatheus08/controle_niveis_agua.git
+   git clone https://github.com/IsaacMatheus08/controle-niveis-agua.git
    ```
 3. Acesse a pasta do projeto:
    ```
-   cd controle_niveis_agua
+   cd controle-niveis-agua
    ```
 4. Instale a biblioteca colorama:
    ```
